@@ -3,5 +3,5 @@ HELLO BlackFlash fsa
  Hi there
  ke tumi
  \a
-changing from remote
+changing from remotes
 :
